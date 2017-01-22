@@ -5,35 +5,49 @@
 -> Terminator <-
 =========
 
--> A useful tool for arranging terminals. <-
+pronunciation: [tur-_muh_-ney-ter]
+
+noun:
+1. a programmable assassin cyborg unit, created to destroy humans
+^
+2. A DNA sequence which causes RNA transcription to cease
+^
+3. An electrical device that absorbs reflection at the end of a transmission line
+^
+4. A useful tool for arranging terminals
 
 -------------------------------------------------
 
 -> # Stating the Obvious <-
 
-* Terminals are good!
-    - For Linux!
+• Terminals are good!
+    ∘ For Linux!
 
 -------------------------------------------------
 
 -> # Tiling Window Managers <-
 
-• no affordances
-• learning curves
-• can be awkward with GUI apps
+• *no affordances*
+^
+• *reading of manuals*
+^
+• *can be awkward with GUI apps*
 
 -------------------------------------------------
 
 -> # Contrast: Terminator <-
-
+^
 • easy to learn
+^
 • easy to install
      ∘ *apt-get install terminator*
      ∘ *yum install terminator*
      ∘ *zypper install terminator*
      ∘ *pacman -S terminator*
-• works in tandem with your favorite desktop environment
+^
+• compliments not replaces your favorite desktop environment
     ∘ but depends on gconf2 and gtk
+^
 • bonus features
 
 -------------------------------------------------
@@ -56,7 +70,7 @@
 
 -> # Easy to learn: Status Bar <-
 
-• *red*    = active window
+• red    = active window
 • gray   = inactive
 • blue   = receiving 
 
@@ -72,13 +86,14 @@
 
 -> # Bonus Feature: Keyboard Shortcuts <-
 
-• Control-Shift-X: maximize
+• Control-Shift-X: toggle maximize
 • alt+arrow key, move focus
 
 -------------------------------------------------
 
 -> # Bonus Feature: Tabs <-
 
+^
 • they exist
 
 -------------------------------------------------
@@ -87,4 +102,4 @@
 
 • random GUI options
 • Layouts
-∘ open three tabs and ssh into a screen session by default!
+    ∘ open three tabs and ssh into a screen session by default!
